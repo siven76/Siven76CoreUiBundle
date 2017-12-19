@@ -19,7 +19,6 @@
     "symfony/http-foundation" : ">=4.0",
     "symfony/http-kernel"  : ">=4.0",
     "symfony/event-dispatcher" : ">=4.0",
-    // "mrholek/CoreUI-Free-Bootstrap-Admin-Template": "~1.0.6",
     "symfony/console": ">=4.0"
   },
   "require-dev": {
