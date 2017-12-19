@@ -12,18 +12,11 @@
       "role": "Original Author"
     }
   ],
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
     "symfony/process": ">=4.0",
-    "symfony/options-resolver": ">=4.0",
-    "symfony/http-foundation" : ">=4.0",
-    "symfony/http-kernel"  : ">=4.0",
-    "symfony/event-dispatcher" : ">=4.0",
     "symfony/console": ">=4.0"
-  },
-  "require-dev": {
-    "phpspec/prophecy": "^1.6"
   },
   "suggest" : {
     "knplabs/knp-menu-bundle" : "Allows easy menu integration."
