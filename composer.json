@@ -12,6 +12,10 @@
       "role": "Original Author"
     }
   ],
+  "require": {
+    "php": "~7.1",
+    "symfony/twig-bundle": "~2.7|~3.0|~4.0"
+  },
   "minimum-stability": "stable",
   "suggest" : {
     "knplabs/knp-menu-bundle" : "Allows easy menu integration."
