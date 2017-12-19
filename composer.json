@@ -1,0 +1,34 @@
+{
+  "name": "siven76/coreui-bundle",
+  "type": "symfony-bundle",
+  "description": "Admin Theme based on the CoreUI Template for easy integration into Symfony 4",
+  "license": "GNU",
+  "authors": [
+    {
+      "name": "Siven Sadiyan",
+      "email": "siven76@hotmail.com",
+      "homepage": "http://www.siven76.com",
+      "role": "Original Author"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "symfony/process": ">=4.0",
+    "symfony/options-resolver": ">=4.0",
+    "symfony/http-foundation" : ">=4.0",
+    "symfony/http-kernel"  : ">=4.0",
+    "symfony/event-dispatcher" : ">=4.0",
+    // "mrholek/CoreUI-Free-Bootstrap-Admin-Template": "~1.0.6",
+    "symfony/console": ">=4.0"
+  },
+  "require-dev": {
+    "phpspec/prophecy": "^1.6"
+  },
+  "suggest" : {
+    "knplabs/knp-menu-bundle" : "Allows easy menu integration."
+  },
+  "autoload": {
+    "psr-4": { "Siven76\\CoreUIBundle\\": "" }
+  }
+}
