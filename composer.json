@@ -13,11 +13,6 @@
     }
   ],
   "minimum-stability": "dev",
-  "require": {
-    "php": ">=7.1",
-    "symfony/process": ">=4.0",
-    "symfony/console": ">=4.0"
-  },
   "suggest" : {
     "knplabs/knp-menu-bundle" : "Allows easy menu integration."
   },
