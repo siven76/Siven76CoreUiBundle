@@ -2,6 +2,7 @@
   "name": "siven76/coreui-bundle",
   "type": "symfony-bundle",
   "description": "Admin Theme based on the CoreUI Template for easy integration into Symfony 4",
+  "keywords": ["admin", "theme", "coreui", "symfony4"],
   "license": "GNU",
   "authors": [
     {
