@@ -12,7 +12,7 @@
       "role": "Original Author"
     }
   ],
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "suggest" : {
     "knplabs/knp-menu-bundle" : "Allows easy menu integration."
   },
